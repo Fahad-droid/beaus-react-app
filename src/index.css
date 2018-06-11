@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.product {
+  height: 100px;
+  width: 300px
+}
+
+.ProductComponent-card-1 {
+  width: 30%;
+  height: 375px;
+  float: left;
+  margin: 1.4%; 
+  border: 1px solid white;
+  text-align: center;
+}
+
+.ProductComponent-media-2 {
+  background-size: contain !important; 
+  width: 100%;
+  height: auto;
+}
+
+.MuiTypography-headline-39 {
+    font-family: 'Open Sans', sans-serif !important;
+}
